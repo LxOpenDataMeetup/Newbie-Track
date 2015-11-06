@@ -1,12 +1,14 @@
 # Intro-to-Scikit-and-Pandas
 
-### For people who don't like to read readme files: 
-(I don't want to read this, take me straight to [the Notebook action](https://github.com/LxOpenDataMeetup/Intro-to-Scikit-and-Pandas/blob/master/ML%20intro.ipynb))
+## For people who don't like to read readme files: 
+I don't want to read this, take me straight to [the Notebook action](https://github.com/LxOpenDataMeetup/Intro-to-Scikit-and-Pandas/blob/master/ML%20intro.ipynb)
 
-### For people who absolutely enjoy reading readme files: 
+## For people who absolutely enjoy reading readme files: 
+
+### What is this repository?
 This is an introduction to Machine Learning useing [Scikit](http://scikit-learn.org/stable/) and [Pandas](http://pandas.pydata.org/). 
 
-This introduction is developed by members of the [Lisbon Open Data Meetup](http://www.meetup.com/Lisbon-Open-Data-Meetup/) to give first time users a starting point with Machine Learning.
+This introduction is collaboratively developed by members of the [Lisbon Open Data Meetup](http://www.meetup.com/Lisbon-Open-Data-Meetup/) to give first time users a starting point with Machine Learning. It is in permanent beta, and probably full of spelling mistakes, but permanently improving. 
 
 ### Making or suggesting changes to this document: 
 If you want to add, correct, or change anything in this document, please feel free to make pull requests with your alterations. 
