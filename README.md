@@ -1,2 +1,23 @@
 # Intro-to-Scikit-and-Pandas
-Example to run the Titanic dataset with Pandas and Scikit 
+
+### For people who don't like to read readme files: 
+(I don't want to read this, take me straight to [the Notebook action](https://github.com/LxOpenDataMeetup/Intro-to-Scikit-and-Pandas/blob/master/ML%20intro.ipynb))
+
+### For people who absolutely enjoy reading readme files: 
+This is an introduction to Machine Learning useing [Scikit](http://scikit-learn.org/stable/) and [Pandas](http://pandas.pydata.org/). 
+
+This introduction is developed by members of the [Lisbon Open Data Meetup](http://www.meetup.com/Lisbon-Open-Data-Meetup/) to give first time users a starting point with Machine Learning.
+
+### Making or suggesting changes to this document: 
+If you want to add, correct, or change anything in this document, please feel free to make pull requests with your alterations. 
+
+### To run these examples on your machine: 
+The first thing to do is to clone this repository. If you don't know how to clone, you can also simply [download it as a Zip](https://github.com/LxOpenDataMeetup/Intro-to-Scikit-and-Pandas/archive/master.zip). To actually run it you will need to install Scikit, Pandas, and another few things, but we recommend simply installing [Anaconda](https://www.continuum.io/downloads) as it will include everything else in just one download. 
+
+To open and run the ipython notebook, simply open a terminal and type `ipython notebook`. 
+
+### If (when) you run into trouble:
+We are here to help, within reason. The group is formed by volunteers in their own time, so please be considerate and expect that the answers might take some time. The first step is to see if your problem has been addressed in [stackoverflow](http://stackoverflow.com/) (generally someone has already had the same problem as you). If not, check the [Issues Page](https://github.com/LxOpenDataMeetup/Intro-to-Scikit-and-Pandas/issues) of this repository to see if it might have the answer to your question. If not, raise a new issue there. Ans please, please, please read the wonderful [How to Ask](http://stackoverflow.com/help/how-to-ask) page. 
+
+### Using this material yourself: 
+This material is entirely free and open source, and anyone can use, copy, or change it without any permission. If you want to use it to teach others, we will be super happy. 
