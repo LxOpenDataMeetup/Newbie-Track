@@ -2,8 +2,8 @@
 
 ## For people who don't like to read readme files: 
 I don't want to read this, take me straight to the Notebook action:
-* [Part 1 - The basics (Pedro)](https://github.com/LxOpenDataMeetup/Intro-to-Scikit-and-Pandas/blob/master/Intro%20to%20Data%20Science%20for%20Newbies%20part%201%20(Pedro).ipynb) 
-* [Part 2 - Machine Learning (Ekaterina)](https://github.com/LxOpenDataMeetup/Intro-to-Scikit-and-Pandas/blob/master/Intro%20to%20Data%20Science%20for%20Newbies%20part%202%20(Ekaterina).ipynb) 
+* [Part 1 - The basics (Pedro)](https://github.com/LxOpenDataMeetup/Newbie-Track/blob/master/Meetup%202%20-%20Intro%20to%20Data%20Science%20for%20Newbies%20part%201%20(Pedro).ipynb) 
+* [Part 2 - Machine Learning (Ekaterina)](https://github.com/LxOpenDataMeetup/Newbie-Track/blob/master/Meetup%201%20-%20Intro%20to%20Data%20Science%20for%20Newbies%20part%202%20(Ekaterina).ipynb) 
 
 ## For people who absolutely enjoy reading readme files: 
 
